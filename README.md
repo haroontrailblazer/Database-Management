@@ -1,4 +1,10 @@
 # Database Management
+![Screenshot 2024-12-29 164720](https://github.com/user-attachments/assets/aa113ade-4216-4e02-9511-b20070d7961c)
+![WhatsApp Image 2024-12-29 at 16 54 14_bd0de668](https://github.com/user-attachments/assets/ec935361-056f-4472-a4c7-3f44874e98ce)
+
+
+
+
 
 ## 🚀 Overview
 Welcome to the **Database Management** repository! This project is all about mastering the art of database management using two powerful tools: **SQL** and **MongoDB**. Whether you are a beginner or looking to refine your skills, this repository offers valuable resources and examples to guide you through the concepts and practical applications.
