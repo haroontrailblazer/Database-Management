@@ -1,0 +1,1 @@
+delete from coustmer where Cust_name='Raj'
