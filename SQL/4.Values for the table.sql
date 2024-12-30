@@ -9,3 +9,13 @@ INSERT INTO coustmer VALUES
 (8, 'Fahad', '123456789'), 
 (9, 'Omar', '123456789'), 
 (10, 'Abdulrahman', '123456789');
+
+
+/* 
+   syntax:
+    INSERT INTO table_name (column1, column2, column3, ...)
+    VALUES (value1, value2, value3, ...),
+           (value1, value2, value3, ...),
+           (value1, value2, value3, ...),
+           ...);
+*/
