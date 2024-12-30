@@ -1,5 +1,16 @@
 use ss;
 
+/* 
+    syntax:
+
+    insert into table_name (column1, column2, column3, ...),
+    values (value1, value2, value3, ...),
+    (value1, value2, value3, ...),
+    (value1, value2, value3, ...),
+    (value1, value2, value3, ...);
+    */
+
+    
 insert into customer values (1, 'John', 'Doe', '123 Main St', 'Anytown', 'AnyCity', '1234', '123-456-7890'), 
 (2, 'Jane', 'Smith', '456 Elm St', 'Anytown', 'AnyCity', '1234', '123-456-7890'), 
 (3, 'Jim', 'Brown', '789 Oak St', 'Anytown', 'AnyCity', '1234', '123-456-7890'), 
