@@ -10,7 +10,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "local1",
-            "database": "company",
+            "database": "ss",
             "username": "root",
             "connectionTimeout": 30
         }
