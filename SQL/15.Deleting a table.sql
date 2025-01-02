@@ -3,5 +3,4 @@ drop table coustmer;
 
 /* 
     Syntax:
-    DROP TABLE table_name;
-*/
+    DROP TABLE table_name;*/
