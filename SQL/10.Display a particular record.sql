@@ -2,7 +2,6 @@
 select Cust_name, Cust_address from coustmer;
 
 /* 
-
-    syntax:
+syntax:
     select column1, column2 from table_name;
     */
