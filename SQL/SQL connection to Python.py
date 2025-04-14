@@ -4,7 +4,8 @@ import pandas as pd
 db = mysql.connect(
     host="localhost",  # Corrected host name
     user="root",
-    password="haroon866995",
+    password="Your localhost password",
+    port=3306,
     database="company"
     )
 if db.is_connected():
